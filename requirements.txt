@@ -1,6 +1,72 @@
-# Criando um ambiente vulnerável em Python para testes com Snyk SCA
-
-# Dependências vulneráveis
-Flask==0.12.3  # CVE-2018-1000656 - Path Traversal
-requests==2.19.1  # CVE-2018-18074 - Arbitrary File Overwrite
-pyyaml==5.1  # CVE-2020-14343 - Arbitrary Code Execution
+altgraph @ file:///AppleInternal/Library/BuildRoots/2c89a47b-9dd5-11ef-938f-6e654a286000/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
+annotated-types==0.7.0
+Authlib==1.4.1
+blinker==1.9.0
+boolean.py==4.0
+CacheControl==0.14.2
+certifi==2024.8.30
+cffi==1.17.1
+chardet==3.0.4
+charset-normalizer==3.4.0
+click==8.1.8
+cryptography==44.0.1
+cyclonedx-python-lib==8.8.0
+defusedxml==0.7.1
+dparse==0.6.4
+et_xmlfile==2.0.0
+filelock==3.16.1
+Flask==3.1.0
+future @ file:///AppleInternal/Library/BuildRoots/2c89a47b-9dd5-11ef-938f-6e654a286000/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
+HyperCoeRPA==0.2.2
+idna==2.7
+importlib_metadata==8.5.0
+itsdangerous==2.2.0
+Jinja2==3.1.5
+jsonpickle==4.0.0
+Levenshtein==0.26.1
+license-expression==30.4.1
+macholib @ file:///AppleInternal/Library/BuildRoots/2c89a47b-9dd5-11ef-938f-6e654a286000/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
+markdown-it-py==3.0.0
+MarkupSafe==3.0.2
+marshmallow==3.26.1
+mdurl==0.1.2
+msgpack==1.1.0
+numpy==2.0.2
+openpyxl==3.1.5
+packageurl-python==0.16.0
+packaging==24.2
+pandas==2.2.3
+pip-api==0.0.34
+pip-requirements-parser==32.0.1
+pip_audit==2.8.0
+platformdirs==4.3.6
+psutil==6.1.1
+py-serializable==1.1.2
+pycparser==2.22
+pydantic==2.9.2
+pydantic_core==2.23.4
+Pygments==2.19.1
+pyparsing==3.2.1
+python-dateutil==2.9.0.post0
+python-Levenshtein==0.26.1
+pytz==2024.2
+PyYAML==6.0.2
+RapidFuzz==3.12.1
+requests==2.32.3
+rich==13.9.4
+ruamel.yaml==0.18.10
+ruamel.yaml.clib==0.2.12
+safety==3.3.0
+safety-schemas==0.0.10
+shellingham==1.5.4
+six @ file:///AppleInternal/Library/BuildRoots/2c89a47b-9dd5-11ef-938f-6e654a286000/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
+sortedcontainers==2.4.0
+toml==0.10.2
+tomli==2.2.1
+typer==0.15.1
+typing_extensions==4.12.2
+tzdata==2024.2
+urllib3==2.3.0
+vboxapi==1.0
+Werkzeug==3.1.3
+zipp==3.21.0
